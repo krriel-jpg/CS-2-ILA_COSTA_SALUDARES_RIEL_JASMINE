@@ -103,3 +103,6 @@ Student 1: Winzy Rhoanne O. Costa (wrote the code features, how to run the code,
 Student 2: Amara Niña C. Saludares (Wrote the program description and example output)
 
 Student 3: Keane Rayleigh S. Riel (Came up with title, did more research on the topic)
+
+## Changelog
+August 28, 2026
