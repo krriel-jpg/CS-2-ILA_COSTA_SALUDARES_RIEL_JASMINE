@@ -104,11 +104,4 @@ Student 2: Amara Niña C. Saludares (Wrote the program description and example o
 
 Student 3: Keane Rayleigh S. Riel (Came up with title, did more research on the topic)
 
-## Changelog
-August 28, 2026
-
-*Github page
-* Wrote the README file with our project description and rules.
-* Listed the steps on how to run our code.
-* Wrote down all the project features to make sure they match our program perfectly.
 
